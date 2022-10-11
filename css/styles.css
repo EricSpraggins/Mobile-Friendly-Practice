@@ -1,0 +1,15 @@
+h2{
+    margin-left: 15%;
+    font-family: serif;
+    color:aquamarine;
+    letter-spacing: 3px;
+}
+p{
+    font-size: x-small;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.right{
+    text-align: end;
+    margin-right: 15%;
+}
